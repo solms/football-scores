@@ -1,3 +1,5 @@
+# Building a simple football scores app with Angular and TypeScript - a tutorial
+
 ### What we'll be building
 
 ![](https://raw.githubusercontent.com/solms/football-scores/master/end-sc.png) 
