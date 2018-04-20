@@ -1,0 +1,6 @@
+<div class="container">
+  <h1>Live football scores</h1>
+  <div class="score-card-list">
+    <app-score-card *ngFor="let fixture of gameweek.fixtures" [fixture]="fixture"></app-score-card>
+  </div>
+</div>
