@@ -1,6 +1,6 @@
 ### What we'll be building
 
-![](end-sc.png) 
+![](https://raw.githubusercontent.com/solms/football-scores/master/end-sc.png) 
 
 ### Singe-page applications
 
@@ -174,7 +174,7 @@ Try out the following:
 
 This introduces a range of new concepts, and should produce something like the following:
 
-![](for-loop.png)
+![](https://raw.githubusercontent.com/solms/football-scores/master/for-loop.png)
 
 **Concepts to note:**
 
@@ -403,7 +403,7 @@ In our case, we want to load the league table, so we can add something like this
 
 If you open up the console in your web browser you should see something like this:
 
-![](console-table.png)
+![](https://raw.githubusercontent.com/solms/football-scores/master/console-table.png)
 
 Great. We now have a lot of cool data we could do something with in future (not least direct links to club crest images), but for now we're really just interested in the current matchday.
 
@@ -529,7 +529,7 @@ Note the `gameweek?.fixtures` syntax: the `?` symbol acts as a short-hand for `i
 
 Et voila!
 
-![](semi-final.png)
+![](https://raw.githubusercontent.com/solms/football-scores/master/semi-final.png)
 
 ### Creating our own component
 
