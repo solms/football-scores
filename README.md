@@ -491,7 +491,7 @@ export class AppComponent implements OnInit {
           this.table = data; // Note that we store the data locally
           this.getFixtures(data.matchday); // Call this function only after receiving data from the server
         },
-        error => console.log(error)
+        error => console.log(error)
       );
   }
 
